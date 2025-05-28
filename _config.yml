@@ -1,4 +1,4 @@
-title: Nomisenb
+title: Nomisenb - Blog
 description: >- # this means to ignore newlines until "baseurl:"
   A small blog about random stuff.
 baseurl: ""
@@ -10,5 +10,19 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
 
+permalink: /:year-:month-:day-:slug.html
+
+sass:
+    sass_dir: _sass
+
 minima:
   skin: dark
+  hide_site_feed_link: true
+  show_excerpts: true
+  social_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/Nomisenb
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/benjamin-s-bsi/
