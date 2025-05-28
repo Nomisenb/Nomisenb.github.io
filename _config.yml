@@ -1,0 +1,14 @@
+title: Nomisenb
+description: >- # this means to ignore newlines until "baseurl:"
+  A small blog about random stuff.
+baseurl: ""
+domain: "nomisenb.github.io"
+url: "https://nomisenb.github.io/"
+
+# Build settings
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+
+minima:
+  skin: dark
