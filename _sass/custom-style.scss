@@ -23,6 +23,18 @@ blockquote.note
     }
 }
 
+.code-sample
+{
+    max-height: 600px;
+    overflow: scroll;
+}
+
+.yt-frame
+{
+    width: 100%;
+    aspect-ratio: 16/9;
+}
+
 .site-header
 {
     border-top: initial;

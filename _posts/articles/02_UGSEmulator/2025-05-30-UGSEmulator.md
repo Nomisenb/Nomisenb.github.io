@@ -158,12 +158,12 @@ On the Unity Editor side, I've made a control panel interface that allows config
 
 **A video showing the different options available in the tool.**
 
-<iframe width="100%" height="400px" src="https://www.youtube.com/embed/ovHnakBz5Ks" title="Nomisenb Blog - UGSEmulator control panel" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="yt-frame" src="https://www.youtube.com/embed/ovHnakBz5Ks" title="Nomisenb Blog - UGSEmulator control panel" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **A video of the tool used in the VirtuRow project.**
 {: .space}
 
-<iframe width="100%" height="450px" src="https://www.youtube.com/embed/Oc1-p5yM6Qs" title="Nomisenb Blog - Using UGSEmulator on a game project" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="yt-frame" src="https://www.youtube.com/embed/Oc1-p5yM6Qs" title="Nomisenb Blog - Using UGSEmulator on a game project" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The game uses the Unity SDK, and the flow shown here makes use of Lobby, Matchmaker, and Multiplay. We can see the Matchmaker tickets and how the Unity editor instance is used like a Multiplay server instance.
 
